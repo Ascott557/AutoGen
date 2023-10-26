@@ -1,0 +1,2 @@
+air = "clear"
+print(air)
